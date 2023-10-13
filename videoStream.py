@@ -1,7 +1,7 @@
 import cv2
 
 # Replace '<raspberry_pi_ip_address>' with the actual IP address of your Raspberry Pi
-stream_url = 'http://192.168.1.3:8000'
+stream_url = 'dummy url'
 
 # Open the video stream
 cap = cv2.VideoCapture(stream_url)
